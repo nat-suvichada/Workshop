@@ -97,7 +97,7 @@ cursor: pointer;
 }
 
 .profile {
-    position: right;
+    position: relative;
 }
 
 .noti {
